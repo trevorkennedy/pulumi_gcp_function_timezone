@@ -1,0 +1,6 @@
+*.pyc
+*.zip
+.DS_Store
+Pulumi.*.yaml
+.idea/
+venv/
